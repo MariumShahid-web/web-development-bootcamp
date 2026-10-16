@@ -1,0 +1,49 @@
+  .odd{
+            color:brown;
+            background-color: yellow;
+        }
+        .even{
+color:blue;
+background-color: aquamarine;
+
+        }
+        h1{
+            color:rgb(3, 3, 70);
+            background-color: lightpink;
+        }
+        body{
+            background-color:antiquewhite;
+        }
+        #prime{
+            color: blue;
+        }
+        /* universal selector */
+        *{
+            background-color: bisque;
+            text-align: center;
+        }
+
+        .grocery{
+            background-color: azure;
+        }
+         /* ol {
+            border: 1px solid yellow;
+    
+        } */
+      li{
+                    border: 1px solid yellow;
+
+            background-color: pink;
+        }
+        li[value="2"]{
+            color: brown;
+        }
+        li[value="3"]{
+            color: blueviolet;
+        }
+        li[value="4"]{
+            color: brown;
+        }
+        li[value="1"]{
+            color: black;
+        }

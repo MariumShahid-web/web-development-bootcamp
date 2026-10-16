@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"path": "../../Downloads/6 HTML Porfolio Project"
+		},
+		{
+			"path": "web design"
+		},
+		{
+			"path": "."
+		},
+		{
+			"path": "2 Adding CSS"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "web design"
+	}
+}

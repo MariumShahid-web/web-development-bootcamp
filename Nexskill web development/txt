@@ -1,0 +1,3 @@
+    Inline property
+     inline: works like merge can't apply height and width
+      inline-block: with inline-block we can set height and width
